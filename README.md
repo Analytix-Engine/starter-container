@@ -9,7 +9,7 @@ Welcome to `x-engine` a baseline container filled with useful tools to make data
 Use `x-engine` as the baseline development toolkit for your project.
 
 ```
-git clone 
+git clone https://github.com/Analytix-Engine/x-engine.git
 cd x-engine
 ```
 
