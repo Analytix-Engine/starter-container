@@ -4,8 +4,7 @@
 
 ### Note: 
 * `starter-container` is intended to be used with [VSCode](https://code.visualstudio.com/). 
-* Ensure you have the devcontainer extension and Docker installed before you begin.
-* See [devcontainers tutorial](https://code.visualstudio.com/docs/devcontainers/tutorial) for more detail.
+* Ensure you have the devcontainer extension and Docker installed before you begin (See [devcontainers tutorial](https://code.visualstudio.com/docs/devcontainers/tutorial) for more detail).
 ---
 
 # `starter-container`
