@@ -1,9 +1,12 @@
 
 <img src="https://github.com/Analytix-Engine/segment/assets/5680639/66634092-6767-4433-92e3-e01deac1d698" width=50% height=50%>
 
-```
-Note: starter-container is intended to be used with [VSCode](https://code.visualstudio.com/). Ensure you have the devcontainer extension and Docker installed before you begin. See [devcontainers tutorial](https://code.visualstudio.com/docs/devcontainers/tutorial) for more detail.
-```
+
+### Note: 
+* `starter-container` is intended to be used with [VSCode](https://code.visualstudio.com/). 
+* Ensure you have the devcontainer extension and Docker installed before you begin.
+* See [devcontainers tutorial](https://code.visualstudio.com/docs/devcontainers/tutorial) for more detail.
+---
 
 # `starter-container`
 
