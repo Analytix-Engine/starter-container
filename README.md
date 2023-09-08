@@ -25,7 +25,7 @@ That's it! Now `starter-container` is in your new project with the following too
 
 ### [**AI code assistants**](https://app.clickup.com/t/862kaud64)
 * [Copilot](https://docs.github.com/en/copilot/quickstart) 
-* [Gorrilla (for CLI) 🦍](https://gorilla.cs.berkeley.edu/)
+* [Gorrilla (for CLI) 🦍](https://gorilla.cs.berkeley.edu/) 
 
 ### [**Data Exploration**](https://app.clickup.com/t/862kaudgz)
 * [Data Wangler 🤠](https://github.com/Kanaries/pygwalker)
