@@ -15,9 +15,10 @@
 				"vscode": {
 					"extensions": [
 						"GitHub.copilot",
-            // must sign up for copilot chat at: https://github.com/github-copilot/chat_waitlist_signup/join
-						"GitHub.copilot-chat", 
-						"ms-toolsai.datawrangler"
+						"GitHub.copilot-chat",
+						"ms-toolsai.datawrangler",
+						"ms-python.python",
+						"ms-toolsai.jupyter"
 					]
 				}
 			}
