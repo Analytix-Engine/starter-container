@@ -1,3 +1,7 @@
-gorilla
+numpy
+matplotlib
+seaborn
+pandas
+gorilla-cli
 pygwalker
 
