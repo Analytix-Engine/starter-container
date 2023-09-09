@@ -18,6 +18,8 @@
 						"ms-python.python",
 						"VisualStudioExptTeam.vscodeintellicode-insiders",
 						"aaron-bond.better-comments",
+						"ms-python.vscode-pylance",
+						"ms-python.black-formatter",
 						// github
 						"GitHub.vscode-pull-request-github",
 						"GitHub.codespaces",
