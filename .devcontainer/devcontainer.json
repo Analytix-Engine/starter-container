@@ -24,6 +24,7 @@
 						"ms-python.black-formatter",
 						// format
 						"streetsidesoftware.code-spell-checker",
+						"yzhang.markdown-all-in-one",
 						"aaron-bond.better-comments",
 						"njpwerner.autodocstring",
 						// github
