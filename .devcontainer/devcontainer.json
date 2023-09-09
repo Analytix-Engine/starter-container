@@ -14,12 +14,19 @@
 			"customizations": {
 				"vscode": {
 					"extensions": [
+						//python
+						"ms-python.python",
+						// copilot
 						"GitHub.copilot",
 						"GitHub.copilot-chat",
+						"GitHub.copilot-labs",
+						// ms-toolai
 						"ms-toolsai.datawrangler",
 						"ms-toolsai.jupyter-renderers",
 						"ms-toolsai.jupyter",
-						"ms-python.python"
+						"ms-toolsai.vscode-jupyter-cell-tags",
+						"ms-toolsai.vscode-jupyter-slideshow",
+						"ms-toolsai.jupyter-keymap"	
 					]
 				}
 			}
