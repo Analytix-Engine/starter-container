@@ -16,6 +16,8 @@
 					"extensions": [
 						// python
 						"ms-python.python",
+						"VisualStudioExptTeam.vscodeintellicode-insiders",
+						"aaron-bond.better-comments",
 						// github
 						"GitHub.vscode-pull-request-github",
 						"GitHub.codespaces",
