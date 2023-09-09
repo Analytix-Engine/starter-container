@@ -20,7 +20,6 @@
 						"ms-vscode-remote.remote-containers",
 						// python
 						"ms-python.python",
-						"aaron-bond.better-comments",
 						"ms-python.vscode-pylance",
 						"ms-python.black-formatter",
 						// format
