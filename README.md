@@ -23,11 +23,11 @@ git push -u origin master
 
 That's it! Now `starter-container` is in your new project with the following tools:
 
-### [**AI code assistants**](https://app.clickup.com/t/862kaud64)
+### [**AI code assistants**](https://app.clickup.com/t/862kaud64) `← link to Æ  ClickUp`
 * [Copilot](https://docs.github.com/en/copilot/quickstart) 
 * [Gorrilla (for CLI) 🦍](https://gorilla.cs.berkeley.edu/) 
 
-### [**Data Exploration**](https://app.clickup.com/t/862kaudgz)
+### [**Data Exploration**](https://app.clickup.com/t/862kaudgz) `← link to Æ  ClickUp`
 * [Data Wangler 🤠](https://github.com/Kanaries/pygwalker)
 * [Pygwalker 🐖](https://github.com/microsoft/vscode-data-wrangler)
 
