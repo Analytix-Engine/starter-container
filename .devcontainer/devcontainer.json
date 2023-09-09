@@ -33,7 +33,7 @@
 						"GitHub.vscode-github-actions",
 						// copilot
 						"GitHub.copilot",
-						"GitHub.copilot-chat",
+						"GitHub.copilot-chat",  // must sign up for copilot chat at: https://github.com/github-copilot/chat_waitlist_signup/join
 						"GitHub.copilot-labs",
 						// ms-toolai
 						"ms-toolsai.datawrangler",
