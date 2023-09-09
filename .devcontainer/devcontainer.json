@@ -14,12 +14,18 @@
 			"customizations": {
 				"vscode": {
 					"extensions": [
+						"VisualStudioExptTeam.vscodeintellicode-insiders",	
+						// ms-vscode-remote
+						"ms-vscode-remote.remote-ssh",
+						"ms-vscode-remote.remote-containers",
 						// python
 						"ms-python.python",
-						"VisualStudioExptTeam.vscodeintellicode-insiders",
 						"aaron-bond.better-comments",
 						"ms-python.vscode-pylance",
 						"ms-python.black-formatter",
+						// format
+						"aaron-bond.better-comments",
+						"njpwerner.autodocstring",
 						// github
 						"GitHub.vscode-pull-request-github",
 						"GitHub.codespaces",
