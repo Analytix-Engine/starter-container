@@ -14,8 +14,12 @@
 			"customizations": {
 				"vscode": {
 					"extensions": [
-						//python
+						// python
 						"ms-python.python",
+						// github
+						"GitHub.vscode-pull-request-github",
+						"GitHub.codespaces",
+						"GitHub.vscode-github-actions",
 						// copilot
 						"GitHub.copilot",
 						"GitHub.copilot-chat",
