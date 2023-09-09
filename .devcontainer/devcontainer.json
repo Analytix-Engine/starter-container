@@ -14,6 +14,8 @@
 			"customizations": {
 				"vscode": {
 					"extensions": [
+						// liveshare
+						"ms-vsliveshare.vsliveshare",
 						// intellicode
 						"VisualStudioExptTeam.intellicode-api-usage-examples",
 						"VisualStudioExptTeam.vscodeintellicode-completions",
