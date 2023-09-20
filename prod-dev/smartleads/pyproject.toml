@@ -1,0 +1,77 @@
+[tool.kedro]
+package_name = "SmartLeads"
+project_name = "SmartLeads"
+kedro_init_version = "0.18.11"
+
+[tool.isort]
+profile = "black"
+
+[tool.black]
+line-length = 88
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+  | tests/.*/setup.py
+)/
+'''
+
+[tool.flake8]
+ignore = ['E231', 'E241', 'E203', 'W503', 'E501']
+per-file-ignores = [
+    '__init__.py:F401',
+]
+max-line-length = 79
+max-complexity = 12
+count = true
+exclude = [
+    '.git',
+    '__pycache__',
+    '*.egg-info',
+    '.nox',
+    '.pytest_cache',
+    '.mypy_cache',
+    '.venv'
+]
+
+[tool.coverage.run]
+branch = true
+source = ["src", "tests"]
+omit = [".*", "*/site-packages/*", "*/scripts/*", "*/notebooks/*","*/data/*","*/tests/*"]
+
+[tool.coverage.paths]
+source = ["src"]
+
+[tool.coverage.report]
+fail_under = 0
+show_missing = true
+exclude_lines = [
+  "pragma: no cover",
+  "def __repr__",
+  "def __str__",
+  "raise AssertionError",
+  "raise NotImplementedError",
+  "if __name__ == .__main__.:",
+  "if TYPE_CHECKING:",
+  "if typing.TYPE_CHECKING:"
+]
+
+[tool.coverage.html]
+directory = "coverage_html_report"
+
+[tool.pytest.ini_options]
+addopts = "-s -ra -q --maxfail=10 --durations=3 --color=yes --cov=SmartLeads --cov-report html"
+pythonpath = "src"
+markers = [
+  "unit: Fast running isolated tests",
+  "integration: Slower running tests to test that different parts work together."
+]
