@@ -1,0 +1,20 @@
+# dev-requirements.in
+-r src/requirements.txt
+# dev
+isort~=5.0
+pytest-cov>=3.0
+pytest-mock>=1.7.1, <2.0
+pytest-xdist>=2.4.0
+pytest-randomly>=3.8.0
+pytest>=7.3
+pre-commit~=3.2.2
+coverage[toml]>=7.2.5
+seed-isort-config>=2.2.0
+mock>=4.0.3
+flake8-bugbear>=23.5.9
+flake8-pyproject>=1.2.3
+freezegun>=1.2.2
+safety>=2.4.0b1
+black>22.12.0
+flake8>=3.7.9
+pip-tools>=6.13.0
