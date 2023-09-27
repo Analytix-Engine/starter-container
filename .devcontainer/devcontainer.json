@@ -14,40 +14,47 @@
 			"customizations": {
 				"vscode": {
 					"extensions": [
-						// liveshare
-						"ms-vsliveshare.vsliveshare",
-						// intellicode
-						"VisualStudioExptTeam.intellicode-api-usage-examples",
-						"VisualStudioExptTeam.vscodeintellicode-completions",
-						"VisualStudioExptTeam.vscodeintellicode-insiders",	
-						// ms-vscode-remote
-						"ms-vscode-remote.remote-ssh",
-						"ms-vscode-remote.remote-containers",
-						// python
-						"ms-python.python",
-						"ms-python.vscode-pylance",
-						"ms-python.black-formatter",
-						// format
-						"streetsidesoftware.code-spell-checker",
-						"yzhang.markdown-all-in-one",
-						"aaron-bond.better-comments",
-						"njpwerner.autodocstring",
-						// github
-						"GitHub.vscode-pull-request-github",
-						"GitHub.codespaces",
-						"GitHub.vscode-github-actions",
-						// copilot
-						"GitHub.copilot",
-						"GitHub.copilot-chat",  // must sign up for copilot chat at: https://github.com/github-copilot/chat_waitlist_signup/join
-						"GitHub.copilot-labs",
-						// ms-toolai
-						"ms-toolsai.datawrangler",
-						"ms-toolsai.jupyter-renderers",
-						"ms-toolsai.jupyter",
-						"ms-toolsai.vscode-jupyter-cell-tags",
-						"ms-toolsai.vscode-jupyter-slideshow",
-						"ms-toolsai.jupyter-keymap"	
-					]
+			// liveshare
+			"ms-vsliveshare.vsliveshare",
+			// intellicode
+			"VisualStudioExptTeam.intellicode-api-usage-examples",
+			"VisualStudioExptTeam.vscodeintellicode-completions",
+			"VisualStudioExptTeam.vscodeintellicode-insiders",	
+			// ms-vscode-remote
+			"ms-vscode-remote.remote-ssh",
+			"ms-vscode-remote.remote-containers",
+			// python
+			"ms-python.python",
+			"ms-python.vscode-pylance",
+			"ms-python.black-formatter",
+			// format
+			"streetsidesoftware.code-spell-checker",
+			"yzhang.markdown-all-in-one",
+			"aaron-bond.better-comments",
+			"njpwerner.autodocstring",
+			// source Control
+			"GitHub.vscode-pull-request-github",
+			"GitHub.codespaces",
+			"GitHub.vscode-github-actions",
+			"eamodio.gitlens",
+			// copilot
+			"GitHub.copilot",
+			"GitHub.copilot-chat",  // must sign up for copilot chat at: https://github.com/github-copilot/chat_waitlist_signup/join
+			"GitHub.copilot-labs",
+			// ai tools
+			//"HuggingFace.huggingface-vscode",
+			//"TabNine.tabnine-vscode",
+			//"Blackboxapp.blackbox",
+			"Codeium.codeium",
+			// ms-toolai
+			"ms-toolsai.datawrangler",
+			"ms-toolsai.jupyter-renderers",
+			"ms-toolsai.jupyter",
+			"ms-toolsai.vscode-jupyter-cell-tags",
+			"ms-toolsai.vscode-jupyter-slideshow",
+			"ms-toolsai.jupyter-keymap"	
+
+		]
 				}
 			}
     // Features to add to the dev container. More info: https://containers.dev/features.
