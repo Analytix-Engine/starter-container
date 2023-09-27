@@ -1,5 +1,0 @@
-- module-name: 'kedro.framework.project'
-  data-files:
-    dest_path: 'kedro/framework/project/'
-    patterns:
-      - '*.yml'
